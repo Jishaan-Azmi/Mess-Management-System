@@ -16,14 +16,6 @@ Mess Management System is a role-based web app built for hostel administrators a
 
 ---
 
-## 📸 Preview
-
-| Admin Dashboard | Student Dashboard |
-|---|---|
-| ![Admin Dashboard](public/placeholder.svg) | ![Student Dashboard](public/placeholder.svg) |
-
----
-
 ## ✨ Features
 
 **Admin Panel**
